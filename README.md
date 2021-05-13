@@ -38,4 +38,4 @@ Run main.py by opening CMD in the folder with script, then type in:
 ```
 python main.py
 ```
-Results should be shown in CMD and on MS Teams channel 
+Results should be shown in CMD and on MS Teams channel ( can't connect to PC/ No file/ File found)
